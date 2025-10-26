@@ -1,1 +1,2 @@
 # Entity-Companies
+I need to clean the dataset and give each company an unique id to see which companies are the same. I chose domain, coordinates and phone numbers as relevant key parameters, then I made all characters lowercase, I removed all dots and spaces and compared each. I also made a test for 1000 lines of the database to see if it works and I put in the code "incep" and "a mers" to see if there are any errors and where they appear.
